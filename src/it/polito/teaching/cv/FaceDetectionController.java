@@ -345,6 +345,5 @@ public class FaceDetectionController
 	{
 		this.stopAcquisition();
 		osc.doSendOff(1000);
-	}
-	
+	}	
 }

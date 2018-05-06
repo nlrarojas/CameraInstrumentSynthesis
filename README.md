@@ -1,8 +1,9 @@
 ## Face Detection with OpenCV and JavaFX
 
-*Computer Vision course - [Politecnico di Torino](http://www.polito.it)*
+*Instrumento de para Sintesis de Sonido - [Tecnológico de Costa Rica]*
 
-A project, made in Eclipse (Neon), for detecting human faces in a video taken from a webcam. It uses the Haar and LBP classifiers already available in the OpenCV library.
+Hecho en, Eclipse (Neon), 
+Para la detección de caras y enviar su position al servidor de sonido. It uses the Haar and LBP classifiers already available in the OpenCV library.
 
 Please, note that the project is an Eclipse project, made for teaching purposes. Before using it, you need to install the OpenCV library (version 3.x) and JavaFX 8) and create a `User Library` named `opencv` that links to the OpenCV jar and native libraries.
 
